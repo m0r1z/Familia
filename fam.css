@@ -1,0 +1,30 @@
+﻿*{
+    background:rgb(14,14,14);
+}
+body
+{
+    background:rgb(14,14,14);
+    color: gold;
+    padding:0px;
+    font-family:'Courier New';
+}
+moris.hover
+{
+color:red;
+}
+charb.hover{
+    color:red;
+}
+footer{
+    color:gold;
+    padding:0px;
+    font-family:'Courier New';
+}
+a{
+    background:rgb(14,14,14);
+    color:green;
+}
+a{
+    color:gold;
+    font-size:19px;
+}
