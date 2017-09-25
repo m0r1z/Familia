@@ -1,6 +1,4 @@
-html{
-    background-image: url('http://turbo.premiumpixels.com/wp-content/uploads/2010/11/lead-214.jpg');
-}
+
 body
 {
     
@@ -8,6 +6,11 @@ body
    
     font-family:'Courier New';
 }
+.famfam
+{
+     background-image: url('http://turbo.premiumpixels.com/wp-content/uploads/2010/11/lead-214.jpg');
+}
+    
 
 moris.hover
 {
